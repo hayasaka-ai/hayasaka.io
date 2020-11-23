@@ -1,1 +1,1 @@
-# Hayasaka is best girl
+Hayasaka is best girl
