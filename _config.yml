@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: hayasaka is best girl
 description: test page
+github:
+  is_project_page: false
